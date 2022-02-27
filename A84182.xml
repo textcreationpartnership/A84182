@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the manner of the execution of Algernoon Sidney Esq; on Tower-Hill, for high-treason, with his behaviour on the scaffold</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84182</idno>
+            <idno type="STC">Wing E3574B</idno>
+            <idno type="STC">ESTC R229826</idno>
+            <idno type="EEBO-CITATION">99895703</idno>
+            <idno type="PROQUEST">99895703</idno>
+            <idno type="VID">153202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the manner of the execution of Algernoon Sidney Esq; on Tower-Hill, for high-treason, with his behaviour on the scaffold</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683 --  Early works to 1800.</term>
+               <term>Rye House Plot, 1683 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153202:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT of the manner of the EXECUTION OF <hi>Algernoon Sidney</hi> Eſq On <hi>Tower-Hill,</hi> For High-Treaſon, with his Behaviour on the SCAFFOLD.</head>
+            <p>
+               <hi>Algernoon Sidney</hi> Eſq having been A<g ref="char:EOLhyphen"/>raigned this Term paſt, for <hi>High Trea<g ref="char:EOLhyphen"/>ſon</hi> the particulars of his Charge being for Conſpiring the Death of his moſt Sacred Majeſty his Royal Highneſs <hi>&amp;c.</hi> And Con<g ref="char:EOLhyphen"/>triving to make a miſerable ſlaughter of his Majeſties moſt Loyal and Faithful Subjects through the Kingdom of <hi>England</hi> &amp;c. And an alteration of the Govement, both of Church and State, whereby the preſent hap<g ref="char:EOLhyphen"/>py
+<pb n="1" facs="tcp:153202:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:153202:3"/>flouriſhing <hi>Monarchie</hi> and <hi>Hirarchie</hi> were wholy to be <hi>Exterpated,</hi> and in their ſtead a <hi>Democratical, Popular, Rabular,</hi> and moſt <hi>Arbitrary Goverment</hi> were to have been e<g ref="char:EOLhyphen"/>ſtabliſhed.</p>
+            <p>On the 21ſt. Of November laſt paſt, Mr. <hi>Sid<g ref="char:EOLhyphen"/>ney,</hi> was brought under a ſtrong guard by the <hi>Lieutenant</hi> of the <hi>Tower,</hi> to the <hi>Kings-Bench-Bar:</hi> The right Honourable Sr. <hi>George Jefferis,</hi> Lord Cheif Juſtice, Sr. <hi>Francis Withens,</hi> Mr. Juſtice <hi>Holloway,</hi> and Mr. Ju<g ref="char:EOLhyphen"/>ſtice <hi>Walcot,</hi> being preſent. After a full and fair hearing of all that could be ſaid, for and againſt the ſaid Priſoner. about 7 a clock the ſame Evening, the <hi>Jury</hi> found him guilty of the high Treaſon, aforeſaid On the 26th of the ſame month, Mr. <hi>Sidney,</hi> was brought in man<g ref="char:EOLhyphen"/>ner aforeſaid to the Kings <hi>Bench-Bar,</hi> where being asked by the Cleark of the <hi>Crown,</hi> what he had to ſay for himſelf, that Sentence of Death might not be awarded againſt him, according to Law. Said nothing to any ſuch purpoſe, upon which, the <hi>Court Proceeded</hi> to give <hi>Judgment,</hi> which was, That he ſhould be conveyed to the place from whence he came, and thence to the place of <hi>Executi<g ref="char:EOLhyphen"/>on</hi> there to be <hi>hanged</hi> by the Neck, and Cut down alive, his <hi>Privie Members</hi> to be cut of and burnt before his Face, his Bowels to be burnt, his head to be Severed from his Body, his body to be devided into four Quarters,
+<pb n="3" facs="tcp:153202:3"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to be diſpoſed of at his Majeſties plea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure. But ſuch was the Grace and Favour of his Majeſtie (in reſpect to the many Noble and Illuſtrous Families the ſaid <hi>Criminal</hi> was allied to) to remit all the Sentence except <hi>Se<g ref="char:EOLhyphen"/>vering</hi> his head from his body, and accord<g ref="char:EOLhyphen"/>ingly on the 4th. of this preſent <hi>December,</hi> the <hi>Sheriff</hi> of <hi>Middleſex</hi> having received a Warrant to execute the ſaid <hi>Algernoon Sid<g ref="char:EOLhyphen"/>ney,</hi> on the 7th. day of this preſent <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> at the uſual place on <hi>Tower hill,</hi> between the hours of ten and two in the <hi>afternoon</hi> of the ſame day, Iſſued his Sumons to the <hi>Bay<g ref="char:EOLhyphen"/>liff of</hi> the hundred of <hi>Oſwalſton,</hi> &amp; his Depu<g ref="char:EOLhyphen"/>ties: to appear compleatly armed with <hi>halberds</hi> and to attend at the place <hi>of Execu<g ref="char:EOLhyphen"/>tion</hi> till further order, and accordingly this Morning, Mr. <hi>Sheriff</hi> being aſſembled with a very ſtrong Guard as <hi>aforeſaid,</hi> in purſuance <hi>of</hi> his Warrant attended <hi>before</hi> the Palizadoes <hi>of</hi> the <hi>Tower,</hi> to receive the ſaid Priſoner.</p>
+            <p>At which time the Right Honourable the Leiutenant of the <hi>Tower,</hi> attended by a very ſtrong Guard of Warders and in their habit, brought the Priſoner and delivered him to the <hi>Sheriff,</hi> who immediately conveyed him to the place of Execution, on the Hill before the <hi>Tower,</hi> being the ſame Scaffold of the late Lord Viſcount <hi>Stafford</hi> was Executed upon, about this time three years paſt. The Hills, the Houſes and the Walls, of the Tower, were croud<g ref="char:EOLhyphen"/>ed with a Numerous Company of Spectator<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all Ranks and Qualities. Mr. <hi>Sidney</hi> having aſcended the Scaffold, the Spectators begun to keep ſilence, expecting what Mr. <hi>Sidney</hi> would ſay, relateing to himſelf, and others concer<g ref="char:EOLhyphen"/>ned
+<pb n="4" facs="tcp:153202:4"/>in the Horrid Conſpiracy, for which he now was juſt<g ref="char:EOLhyphen"/>ly to ſuffer Death. The Executioner and all things being ready prepared for that purpoſe. But ſuch is the witchc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raft of the ſin, of Rebellion &amp; Treaſon, that it is almoſt if not im<g ref="char:EOLhyphen"/>poſſible, for any of them that have thorowly dyed them<g ref="char:EOLhyphen"/>ſelves in it, ever to change their colour, or be any ways pe<g ref="char:EOLhyphen"/>nitent for the wickedneſs of their time paſt, as daily expe<g ref="char:EOLhyphen"/>rience tells us: ſcarce an Old Rebel, Collonel, Major, Captain, Leiutenant or Corporal, that is now ſurviveing amongſt us, but upon all occaſions of diſcourſe of the late Bloody Treaſonable and Horrid Rebellion, but values himſelf for that part he was concerned in that Fatal Tra<g ref="char:EOLunhyphen"/>digie, ſo far as he dare, without coming under the Laſh of our Eſtabliſhed Laws, and if by chance they meet with a check for their Seditious Inſolencies, they preſently fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to the Inexhauſtible Treaſure of his Majeſties mercies, and replie that the King has been pleaſed to pardon them, and whats that to any man what they have done without the leſt Token of Grace or Repentance in 'em as this preſent Con<g ref="char:EOLhyphen"/>ſpiracie ſhews, and particularly, the preſent Object that they are ſtill ready to do the ſame thing over again, want<g ref="char:EOLhyphen"/>ing nothing more than a convenient opportunity, for if his Majeſties mercy in time paſt, could have made an Infallible Cure, Mr. <hi>Sidney</hi> had not been here at this time, to ſuffer for Treaſon. He ſaid very little, but gave Mr. Sheriff a pa<g ref="char:EOLhyphen"/>per, and prepared himſelf for the Stroke. and after a ſhort prayer the Executioner did his Office, Expoſing the Head of a Traytor to the people on every ſide of the Scaffold.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed by</hi> E. Mallet, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
